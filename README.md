@@ -1,13 +1,6 @@
 # Meu Primeiro 'Saite'
 > REGISTRO DE 10 ANOS ATRÁS, PRIMEIRO CONTATO QUE TIVE COM DESENVOLVIMENTO WEB
 
-
-```
-
-```
-
-
-
 <h1 align="center"><big><big>
 <center><big><big><big>Bem vindo!!</big></big></big></big></big>
 <hr width="45%">
