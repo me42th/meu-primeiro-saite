@@ -1,11 +1,6 @@
-<html>
-<head>
-<title>Em construcao!!</title>
-</head>
-<body>
+
 
 
 <p><img align="right" src="imgcursos/placa.jpg" ></p> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <center><p><a href="../facapenews.html"><img align="center" src="imgcursos/banner.jpg" border="0">
-</body>
-</html>
+
