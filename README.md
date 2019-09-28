@@ -19,7 +19,7 @@ PELOS ESTUDANTES!!</CENTER>
 <br>
 <center><img src="imagens/banner.jpg"></center> 
 <center><hr width="55%">
-<a href="comp./comp.html"><img src="imagens/computacao.jpg" width="150" border="0">
+<a href="comp./comp.md"><img src="imagens/computacao.jpg" width="150" border="0">
 <img src="imagens/DIREITO.jpg" width="150" border="0">
 <img src="imagens/ECONOMIA.jpg" width="150" border="0">
 <img src="imagens/SECRETARIADO.jpg" width="150" border="0">
